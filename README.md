@@ -1,2 +1,1 @@
-Texto teste
-Texto teste 2
+Apagando os textos anteriores
