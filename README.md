@@ -1,6 +1,6 @@
 # Título do arquivo README.md
 
-Aqui nesse arquivo README teremos as informmações sobre o curso
+Aqui nesse arquivo README teremos as informações sobre o curso
 
 ## Subtítulo do README.md
 
